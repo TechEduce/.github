@@ -8,16 +8,16 @@
 ```
 #### Database Management Systems: 
 First, Choose the Right Database Solution, categorized into three primary types of Databases
-- Relational Databases:
-    -   PostgreSQL: Offers advanced features and reliability.
-    -   MySQL: Known for its reliability and ease of use, MySQL is a popular choice for many applications.
-    -   Microsoft SQL Server: A comprehensive RDBMS from Microsoft.
-- NoSQL Databases:
-    -   MongoDB: Popular for its scalability and flexibility.
-    -   Firebase Realtime Database: Provides real-time data synchronization(syncing) and offline support.
-- File-Based Databases:
-    -   SQLite: Ideal for lightweight storage solutions. Offers lightweight and easy to set up features.
-    -   CockroachDB: Designed for distributed SQL with strong consistency. Provides strong consistency and distributed SQL features.
+    - Relational Databases:
+        -   PostgreSQL: Offers advanced features and reliability.
+        -   MySQL: Known for its reliability and ease of use, MySQL is a popular choice for many applications.
+        -   Microsoft SQL Server: A comprehensive RDBMS from Microsoft.
+    - NoSQL Databases:
+        -   MongoDB: Popular for its scalability and flexibility.
+        -   Firebase Realtime Database: Provides real-time data synchronization(syncing) and offline support.
+    - File-Based Databases:
+        -   SQLite: Ideal for lightweight storage solutions. Offers lightweight and easy to set up features.
+        -   CockroachDB: Designed for distributed SQL with strong consistency. Provides strong consistency and distributed SQL features.
 
 #### Design Database Schema:  Fundamental Database Operations
 - Database Creation: Initialize new database systems.
