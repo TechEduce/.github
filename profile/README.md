@@ -1,4 +1,22 @@
 ## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Robin Sharma</h1>
+<h3 align="center">A Web Developer</h3>
+
+<p align="left">
+  <a href="https://twitter.com/robinsun31" target="blank"><img src="https://img.shields.io/twitter/follow/robinsun31?logo=twitter&style=for-the-badge" alt="robinsun31" /></a> 
+</p>
+
+- 🔭 I’m currently working on: [Tanelt](https://www.tanelt.com)
+
+- 📫 How to reach me **robinsun31@gmail.com**
+
+- ⚡ Fun fact **I run a software development agency**
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Database Management in Application Development:
 #### Plan Database Schema:
 ```bash
